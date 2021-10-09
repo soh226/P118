@@ -1,0 +1,42 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 10px rgb(146, 245, 48);
+}
+.heading1{
+    float: none;
+    background-color:rgb(16, 255, 243);
+    padding: 10px;
+    border-radius:20px;
+    color:rgb(11, 62, 173);
+    box-shadow: 5px 5px 10px rgb(58, 218, 143);
+}
+.heading2{
+    font-size: 18px;
+    font-family:fantasy;
+}
+.result_object{
+    box-shadow: 5px 5px 5px chartreuse;
+    font-size: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.resultaccuracy{
+    box-shadow: 5px 5px 5px rgb(255, 0, 0);
+    font-size: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.copyrightfooter{
+    position: fixed;
+    color:cornsilk;
+    width: 100%;
+    bottom: 0;
+    background-color:darkblue;
+    text-align: center;
+}
+canvas{
+    border: 5px solid rgb(106, 16, 158);
+    border-radius:20px;
+    box-shadow: 5px 5px 5px rgb(255, 0, 255);
+    margin-top: 150px;
+}
